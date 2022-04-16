@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hyper Games</string>
+    <string name="title_activity_main">Hyper Games</string>
+    <string name="package_name">sandy.game.hypergames</string>
+    <string name="custom_url_scheme">sandy.game.hypergames</string>
+    <string name="admob_app_id">ca-app-pub-4279390018890538~7652599435</string>
+</resources>
