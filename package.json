@@ -1,7 +1,7 @@
 {
-  "name": "hypergames",
+  "name": "gamehub",
   "version": "1.0.0",
-  "author": "techmintlabs",
+  "author": "sandyundefined",
   "homepage": "https://your-domain.com/",
   "scripts": {
     "ng": "ng",

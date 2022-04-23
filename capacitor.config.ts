@@ -1,8 +1,8 @@
 import { CapacitorConfig } from "@capacitor/cli";
 
 const config: CapacitorConfig = {
-  appId: "sandy.game.hypergames",
-  appName: "Hyper Games",
+  appId: "sandy.game.gamehub",
+  appName: "Game Hub",
   webDir: "www",
   bundledWebRuntime: false,
   plugins: {
